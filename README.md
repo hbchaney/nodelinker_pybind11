@@ -5,7 +5,7 @@ How to install on linux
 first install g++ 
 `sudo apt install g++` 
 
-in prefered python env 
+in preferred python env 
 1. `pip install pybind11`
 2. `pip install ./`
 
